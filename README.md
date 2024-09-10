@@ -1,4 +1,3 @@
-Clement Babu
 Software Development Engineer | AI Enthusiast | Full Stack Developer
 👋 Hello! I'm Clement Babu, a passionate Software Development Engineer with a strong background in Artificial Intelligence and Full Stack Development. Currently pursuing my Master's in AI at the University of East London, I bring a blend of academic knowledge and practical experience to the table.
 🎓 Education
