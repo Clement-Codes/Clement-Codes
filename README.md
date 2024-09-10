@@ -10,21 +10,21 @@ Software Development Engineer | AI Enthusiast | Full Stack Developer
 
 💼 Professional Experience
 
--Research Assistant - University of East London (Dec 2023 - Aug 2024)
+- Research Assistant - University of East London (Dec 2023 - Aug 2024)
 
--Code Coach - Jam Coding, Kent, UK (Feb 2024 - Aug 2024)
+- Code Coach - Jam Coding, Kent, UK (Feb 2024 - Aug 2024)
 
--Software Development Engineer - Loyal Tails, Hyderabad, India (Sep 2021 - Jan 2023)
+- Software Development Engineer - Loyal Tails, Hyderabad, India (Sep 2021 - Jan 2023)
 
--Software Developer Trainee - Loyal Tails, Hyderabad, India (Mar 2021 - Aug 2021)
+- Software Developer Trainee - Loyal Tails, Hyderabad, India (Mar 2021 - Aug 2021)
 
 🚀 Key Projects
 
--Skill Up : A comprehensive personalized career development platform
--Illegal Bitcoin Transaction Detection : PySpark ML algorithm with 0.97 R2 score
--God's Eye : Neural networks for various use cases (fall detection, drowsiness detection, etc.)
--Offline Home Automation : Using Raspberry Pi and Python
--College Bus Location App : Android application for real-time bus tracking
+- Skill Up : A comprehensive personalized career development platform
+- Illegal Bitcoin Transaction Detection : PySpark ML algorithm with 0.97 R2 score
+- God's Eye : Neural networks for various use cases (fall detection, drowsiness detection, etc.)
+- Offline Home Automation : Using Raspberry Pi and Python
+- College Bus Location App : Android application for real-time bus tracking
 
 🛠 Technical Skills
 
