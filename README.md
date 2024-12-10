@@ -78,7 +78,7 @@ Multi-purpose neural network detection system.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Codes&layout=compact&theme=radical)
 
 ## 🏆 LeetCode Stats
-- Solved 160+ problems
+- Solved 200+ problems
 - Strong focus on data structures and algorithms
 - Regular participant in coding challenges
 
